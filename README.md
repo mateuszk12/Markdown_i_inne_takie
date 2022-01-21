@@ -28,7 +28,7 @@ trzeci paragraf
       return cos  
       ```
  
-costam costam
+costam costam  
     ```  
     def(cos):  
         cos=2*cos  
