@@ -23,16 +23,16 @@ trzeci paragraf
  cztery
  
      ```
-     def(cos):
-        cos=2*cos
-      return cos
+     def(cos):  
+        cos=2*cos  
+      return cos  
       ```
  
 costam costam  
     ```
-    def(cos):
-        cos=2*cos
-     return cos
+    def(cos):  
+        cos=2*cos  
+     return cos  
     ```  
 costam costam  
  
