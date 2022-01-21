@@ -1,11 +1,11 @@
-# asd
+# COS
 pierwszy paragraf
 
 drugi paragraf
 
 trzeci paragraf
 
-~~asdas da a das~~
+~~przekreślone~~
 
 *kursywa*
 **pogrubienie**
@@ -36,6 +36,6 @@ costam costam
      ```  
 costam costam
  
- ![kot](kot.jpeg)
+![kot](kot.jpeg)
  
   
