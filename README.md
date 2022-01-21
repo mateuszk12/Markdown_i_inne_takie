@@ -19,8 +19,8 @@ trzeci paragraf
 -   jeden
 -   dwa
 -   trzy
-        trzy jeden
-        trzy dwa
+      - trzy jeden
+      - trzy dwa
 -   cztery
  
      ```
