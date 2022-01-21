@@ -22,15 +22,15 @@ trzeci paragraf
      trzy dwa
  cztery
  
-```def(cos):
+`def(cos):
     cos=2*cos
-  return cos```
+  return cos`
  
-1. costam costam
-     ```def(cos):
+ costam costam
+     `def(cos):
       cos=2*cos
-    return cos```
- 2. costam costam
+    return cos`
+costam costam
  
  
  
