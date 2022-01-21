@@ -22,7 +22,7 @@ trzeci paragraf
      trzy dwa
  cztery
  
-  ```def(cos):
+```def(cos):
     cos=2*cos
   return cos```
  
