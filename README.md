@@ -15,12 +15,13 @@ trzeci paragraf
     1. trzy jeden
     2. trzy dwa
 4. cztery
- jeden
- dwa
- trzy
-     trzy jeden
-     trzy dwa
- cztery
+ 
+jeden
+dwa
+trzy
+    trzy jeden
+    trzy dwa
+cztery
  
      ```
      def(cos):  
