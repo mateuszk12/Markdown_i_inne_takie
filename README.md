@@ -36,6 +36,6 @@ costam costam
      ```  
 costam costam
  
- kot.jpeg
+ ![kot]kot.jpeg
  
   
